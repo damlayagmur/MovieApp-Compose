@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movie App</string>
+
+    <string name="now_playing"> Playing now</string>
+    <string name="most_popular">Most popular</string>
+
+    //MovieDetail
+    <string name="content_description">contentDescription</string>
+    <string name="released_on"> Released on</string>
+    <string name="lasts">Lasts</string>
+
+</resources>
