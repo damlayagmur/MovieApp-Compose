@@ -39,8 +39,8 @@ Modules are the collection of source files and build settings that allow you to 
 
 # Screenshots
 <p align"center">
-<img src="screenshots/Character List Page .png" width="211" height="423" />
-<img src="screenshots/Character List - GridView Mode.png" width="211" height="423"  />
-<img src="screenshots/Filter:Search Page.png" width="211" height="423"  />
-<img src="screenshots/Character Detail Page.png" width="211" height="423" />
+<img src="Screenshots/Character List Page .png" width="211" height="423" />
+<img src="Screenshots/Character List - GridView Mode.png" width="211" height="423"  />
+<img src="Screenshots/Filter:Search Page.png" width="211" height="423"  />
+<img src="Screenshots/Character Detail Page.png" width="211" height="423" />
 </p>
