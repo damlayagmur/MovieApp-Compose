@@ -39,7 +39,7 @@ Modules are the collection of source files and build settings that allow you to 
 
 # Screenshots
 <p align"center">
-<img src="Screenshots/Character List Page.jpg" width="211" height="423" />
+<img src="Screenshots/SplashScreen.jpg" width="211" height="423" />
 <img src="Screenshots/MostPopularScreen.jpg" width="211" height="423"  />
 <img src="Screenshots/NowPlayingScreen.jpg" width="211" height="423"  />
 <img src="Screenshots/MovieDetailScreen.jpg" width="211" height="423" />
