@@ -37,10 +37,3 @@ Modules are the collection of source files and build settings that allow you to 
 - Get Movie List: Now Playing Movies List and Popular Movies List. In lists page, you can find movie poster, name, duraion and rating.In addition in the Popular Movie List, you can check  movie's overview. When you click movie in the lists page, you redirected Movie Detail Page.
 - Movie Detail Page by: movie poster, name,released date, duration, overview and genres.
 
-# Screenshots
-<p align"center">
-<img src="Screenshots/SplashScreen.jpg" width="211" height="423" />
-<img src="Screenshots/NowPlayingScreen.jpg" width="211" height="423"  />
-<img src="Screenshots/MostPopularScreen.jpg" width="211" height="423"  />
-<img src="Screenshots/MovieDetailScreen.jpg" width="211" height="423" />
-</p>
